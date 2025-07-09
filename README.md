@@ -1,2 +1,0 @@
-# Growsence
-E-learning Platform 
